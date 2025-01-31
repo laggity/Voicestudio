@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="(jy3G!y~!b#(V}#{5k[z">speed</variable></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="(jy3G!y~!b#(V}#{5k[z">speed</variable></variables><block type="device_button_event" id="Q~A^]|G/}FN{j5Hs8FjQ" x="250" y="229"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="input_compass_calibrate" id=")Q#~lYK,BT:BL[`Dy^]w"></block></statement></block></xml>
